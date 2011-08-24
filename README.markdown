@@ -1,4 +1,4 @@
-# HTML/CSS/JS slides for Instanssi 2011
+# HTML/CSS/JS slides for Instanssi 2011 opening event
 
 Found (currently) at: http://new.instanssi.org
 
