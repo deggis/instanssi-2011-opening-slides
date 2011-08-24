@@ -1,0 +1,83 @@
+body {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(5%,#BE00CF), color-stop(100%,black));
+  background-position: fixed;
+}
+
+div h2 {
+  font-family: Inero !important;
+  text-shadow: #000000 -2px -2px 2px;
+  color: #43FF43;
+  margin-bottom: 0px;
+  margin-left: 3px;
+  font-size: 240%;
+}
+div p {
+  margin-top: 0px;
+}
+#slides {
+  position: relative;
+  width: 1000px;
+  height: 1000px;
+}
+#slides #instanssiajat {
+  position: absolute;
+  left: 200px;
+  top: 300px;
+  width: 700px;
+}
+
+.red {
+  font-weight: bold;
+  color: red;
+}
+
+.green {
+  font-weight: bold;
+  color: #43ff43;
+}
+
+#slides div {
+  font-family: Inero !important;
+  font-weight: bold;
+  color: white;
+}
+@font-face {
+    font-family: Inero;
+    src: url('inero.ttf');.
+}
+
+#a_tervetuloa { top: 0px; left: 300px; }
+#b_verkossa   { top: 130px; left: 300px; }
+
+#c_twitter    { top: 150px; left: 650px;  }
+#d_ipas       { top: 0px; left: 700px; }
+
+#e_kahvi1     { top: 20px; left: 1000px; }
+#f_kahvi2     { top: 140px; left: 1050px; -webkit-transform: rotate(30deg);} 
+
+#g_info       { top: 300px; left: 1050px; -webkit-transform: rotate(40deg); }
+#h_nukkumatilaa { top: 480px; left: 1050px; -webkit-transform: rotate(60deg); }
+#i_suihkut    { top: 600px; left: 1250px; -webkit-transform: rotate(80deg); }
+#j_pesemma    { top: 520px; left: 930px; -webkit-transform: rotate(80deg); width: 20em;}
+#k_lasemma    { top: 550px; left: 750px; -webkit-transform: rotate(80deg); width: 20em;}
+#l_pekompot   { top: 590px; left: 540px; -webkit-transform: rotate(80deg); }
+#m_lakompot   { top: 600px; left: 460px; -webkit-transform: rotate(80deg); }
+#n_sukompot   { top: 620px; left: 360px; -webkit-transform: rotate(80deg); }
+#o_hissipuhe  { top: 840px; left: 200px; -webkit-transform: rotate(130deg); }
+#p_aanesta    { top: 750px; left: 180px; -webkit-transform: rotate(170deg); }
+#q_aanestysdemo { top: 600px; left: -100px; -webkit-transform: rotate(170deg); }
+#r_tyopajat   { top: 640px; left: 160px; -webkit-transform: rotate(170deg); }
+#s_opensource { top: 500px; left: 140px; -webkit-transform: rotate(190deg); }
+#t_linkki     { top: 100px; left: 0px; -webkit-transform: rotate(0deg); }
+#u_kumppanit  { top: 150px; left: 140px; -webkit-transform: rotate(235deg); }
+
+
+
+#aanestysdemo iframe {
+}
+.slide {
+  width: 15em;
+  position: absolute;
+}
+
+
